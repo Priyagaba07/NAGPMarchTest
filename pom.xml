@@ -5,7 +5,7 @@
   <artifactId>devops-FreeStyle-project</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>devops-FreeStyle-project Maven Webapp</name>
+  <name>NAGP Exam</name>
   <url>http://maven.apache.org</url>
   
 	<properties>
